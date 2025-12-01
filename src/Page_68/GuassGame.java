@@ -55,7 +55,8 @@ public class GuassGame {
                 }
                 break;
             }else{
-                System.out.println("agen");
+                System.out.println("попробовать еще раз");
+                System.out.println("++++++++++++++++++++++++++++++++++");
             }
 
         }
